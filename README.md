@@ -7,7 +7,7 @@
 Lötsch J, Dimova V, Ultsch A, Lieb I, Zimmermann M, Geisslinger G, Oertel BG. 
 *Eur J Pain.* 2016 May;20(5):777-89. doi: 10.1002/ejp.803
 
-**Dataset:** Lötsch J (2026). Quantitative sensory testing and classical pain model dataset in 127 healthy volunteers. *Mendeley Data*, V2. doi: 10.17632/9v8ndhctvz.2
+**Dataset:** Lotsch, Jorn; Dimova, Violeta (2026), “Quantitative sensory testing and classical pain model dataset in 127 healthy volunteers”, Mendeley Data, V2, doi: 10.17632/9v8ndhctvz.2
 
 ## Overview
 
