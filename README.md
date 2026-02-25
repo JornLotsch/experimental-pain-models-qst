@@ -73,8 +73,6 @@ All transformations are deterministic (no random processes):
 
 The complete dataset is available on **Mendeley Data** (V2, doi: 10.17632/9v8ndhctvz.2)
 
-The data preparation and dataset are described in detail in the accompanying paper published in *Data in Brief* (Elsevier).
-
 ## Citation
 
 Please cite the accompanying paper in *Data in Brief*:
