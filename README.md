@@ -2,12 +2,12 @@
 
 ## Publication Reference
 
-**A small yet comprehensive subset of human experimental pain models emerging from correlation analysis with a clinical quantitative sensory testing protocol in healthy subjects**
-
-Lötsch J, Dimova V, Ultsch A, Lieb I, Zimmermann M, Geisslinger G, Oertel BG. 
+**Original Study:**
+Lötsch J, Dimova V, Ultsch A, Lieb I, Zimmermann M, Geisslinger G, Oertel BG.
+A small yet comprehensive subset of human experimental pain models emerging from correlation analysis with a clinical quantitative sensory testing protocol in healthy subjects.
 *Eur J Pain.* 2016 May;20(5):777-89. doi: 10.1002/ejp.803
 
-**Dataset:** Lotsch, Jorn; Dimova, Violeta (2026), “Quantitative sensory testing and classical pain model dataset in 127 healthy volunteers”, Mendeley Data, V2, doi: 10.17632/9v8ndhctvz.2
+**Dataset:** Lotsch, Jorn; Lieb, Isabel; Dimova, Violeta (2026), "Quantitative sensory testing and classical pain model dataset in 127 healthy volunteers", Mendeley Data, V2, doi: 10.17632/9v8ndhctvz.2, 
 
 ## Overview
 
@@ -39,11 +39,11 @@ The script applies the following transformations to prepare data for publication
 
 ## Requirements
 
-**R:** Version 4.0+  
-**Packages:** `readxl`
+**R:** Version 4.0+
+**Packages:** `readxl`, `psych`
 
 ```r
-install.packages("readxl")
+install.packages(c("readxl", "psych"))
 ```
 
 ## Usage
@@ -73,10 +73,18 @@ All transformations are deterministic (no random processes):
 
 The complete dataset is available on **Mendeley Data** (V2, doi: 10.17632/9v8ndhctvz.2)
 
+Direct URL to data: https://data.mendeley.com/datasets/9v8ndhctvz/2  
+
+
 ## Citation
 
-Please cite the accompanying paper in *Data in Brief*:
+Please cite the dataset paper:
 
+Lötsch J, Dimova V, Lieb I, Kringel D.
+Quantitative sensory testing and classical pain model dataset in 127 healthy volunteers.
+*Data in Brief.* 2026 (in revision)
+
+For the original study, see:
 Lötsch J, Dimova V, Ultsch A, Lieb I, Zimmermann M, Geisslinger G, Oertel BG.
 A small yet comprehensive subset of human experimental pain models emerging from correlation analysis with a clinical quantitative sensory testing protocol in healthy subjects.
 *Eur J Pain.* 2016 May;20(5):777-89. doi: 10.1002/ejp.803
@@ -85,6 +93,3 @@ A small yet comprehensive subset of human experimental pain models emerging from
 
 CC-BY 4.0
 
----
-**Mendeley Data:** https://data.mendeley.com/datasets/9v8ndhctvz/2  
-**Original Article:** Eur J Pain. 2016;20(5):777-89. doi: 10.1002/ejp.803
